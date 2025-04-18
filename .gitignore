@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+
+# BLEURT model weights (large files)
+bleurt/BLEURT-20/
+
+# Gradio temp files
+gradio_cached_examples/
+gradio_output/
+
+# VSCode or other editor settings
+.vscode/
+.idea/
+
+#Environment file
+.env
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
