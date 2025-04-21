@@ -1,4 +1,4 @@
-# 🌍 AI Translation Enhancer
+# 🌍 AI Translation Assistant
 
 An AI-powered multilingual translation app that enhances text translation quality using Neural Machine Translation (NMT) and BLEURT-based quality scoring. Built with Gradio for an intuitive web UI, the tool supports audio playback, source-target language filtering, and dynamic quality feedback.
 
